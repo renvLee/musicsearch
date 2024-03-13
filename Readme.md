@@ -79,8 +79,6 @@ void MainWidget::httpAccess(QString url) // OK
 
 ```
 
-![image-20240313232205111](./assets/Readme/image-20240313232205111.png)
-
 ![image-20240313232613947](./assets/Readme/image-20240313232613947.png)
 
 ![image-20240313232751261](./assets/Readme/image-20240313232751261.png)
